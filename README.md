@@ -42,3 +42,20 @@ The models demonstrate the effectiveness of deep learning in detecting diabetic 
 
 Chaima Ahmed Gaid  
 Amira Temmam
+
+## Model Performance Comparison
+
+The following table summarizes the performance of different deep learning models for diabetic retinopathy classification.
+
+| Model           | Accuracy | Precision | Recall | F1-Score |
+|----------------|----------|----------|--------|----------|
+| EfficientNetB1 | 83.46%   | 0.84     | 0.83   | 0.82     |
+| InceptionV3    | 87.43%   | 0.87     | 0.87   | 0.87     |
+| MobileNetV2    | **87.88%** | **0.88** | **0.88** | **0.87** |
+| Xception       | 86.31%   | 0.86     | 0.86   | 0.86     |
+
+### Analysis
+
+MobileNetV2 achieved the highest overall accuracy (87.88%) with balanced precision and recall, making it the most effective model for this task. InceptionV3 also demonstrated strong and stable performance across both classes. EfficientNetB1 showed lower recall for the diabetic retinopathy (DR) class, indicating limitations in detecting positive cases.
+
+These results highlight the effectiveness of lightweight CNN architectures for medical image classification tasks.
