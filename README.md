@@ -41,3 +41,4 @@ The models demonstrate the effectiveness of deep learning in detecting diabetic 
 ## Author
 
 Chaima Ahmed Gaid  
+Amira Temmam
