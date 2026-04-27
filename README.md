@@ -22,9 +22,19 @@ The models were trained on publicly available retinal fundus image datasets for 
 Due to size limitations, the datasets are not included in this repository. They can be accessed from their original sources:
 
 - https://www.kaggle.com/c/aptos2019-blindness-detection  
-- https://www.kaggle.com/c/diabetic-retinopathy-detection  
+- https://www.kaggle.com/divyareddy143
+- https://www.kaggle.com/datasets/chaimaahmedgaid/eyepacs-cropped
 
 The datasets were preprocessed and augmented to improve model generalization.
+
+---
+
+## Kaggle Notebooks
+
+Parts of this project were implemented and experimented using Kaggle notebooks:
+
+- My implementation combining EyePACS, APTOS, and DDR datasets:  
+  https://www.kaggle.com/code/chaimaahmedgaid/eyepacs-aptos-ddr  
 
 ---
 
