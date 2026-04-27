@@ -16,7 +16,8 @@ This project explores multiple convolutional neural network (CNN) architectures 
 
 The models were trained on publicly available retinal fundus image datasets for diabetic retinopathy classification.
 
-- APTOS 2019 Blindness Detection Dataset  
+- APTOS 2019 Blindness Detection Dataset
+- DDR
 - EyePACS Dataset  
 
 Due to size limitations, the datasets are not included in this repository. They can be accessed from their original sources:
